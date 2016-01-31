@@ -1,0 +1,230 @@
+laxity[0]=1
+laxity[1]=3
+laxity[2]=5
+laxity[3]=14
+laxity[4]=6
+laxity[5]=6
+laxity[6]=4
+laxity[7]=59
+rbegin=0, rend=5
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=0
+lte[3]=0
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=7
+currentRow is 0
+row0:	4 5 5 5 0 0 1 0 
+rbegin=5, rend=10
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=0
+lte[3]=0
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=0
+lb=15
+currentRow is 1
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+rbegin=10, rend=15
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=3
+lte[3]=0
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=10
+currentRow is 2
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+rbegin=15, rend=20
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=3
+lte[3]=0
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=0
+lb=18
+currentRow is 3
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+rbegin=20, rend=25
+tnum=8
+lte[0]=4
+lte[1]=3
+lte[2]=0
+lte[3]=1
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=9
+currentRow is 4
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+rbegin=25, rend=30
+tnum=8
+lte[0]=4
+lte[1]=3
+lte[2]=0
+lte[3]=1
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=0
+lb=17
+currentRow is 5
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+rbegin=30, rend=35
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=2
+lte[3]=0
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=9
+currentRow is 6
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+rbegin=35, rend=40
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=2
+lte[3]=0
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=0
+lb=17
+currentRow is 7
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+row7:	4 5 2 0 4 4 1 0 
+rbegin=40, rend=45
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=0
+lte[3]=0
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=7
+currentRow is 8
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+row7:	4 5 2 0 4 4 1 0 
+row8:	4 5 5 5 0 0 1 0 
+rbegin=45, rend=50
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=0
+lte[3]=0
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=0
+lb=15
+currentRow is 9
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+row7:	4 5 2 0 4 4 1 0 
+row8:	4 5 5 5 0 0 1 0 
+row9:	4 5 2 0 4 4 1 0 
+rbegin=50, rend=55
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=3
+lte[3]=1
+lte[4]=0
+lte[5]=0
+lte[6]=1
+lte[7]=0
+lb=11
+currentRow is 10
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+row7:	4 5 2 0 4 4 1 0 
+row8:	4 5 5 5 0 0 1 0 
+row9:	4 5 2 0 4 4 1 0 
+row10:	4 5 5 5 0 0 1 0 
+rbegin=55, rend=60
+tnum=8
+lte[0]=4
+lte[1]=2
+lte[2]=3
+lte[3]=1
+lte[4]=4
+lte[5]=4
+lte[6]=1
+lte[7]=1
+lb=20
+currentRow is 11
+row0:	4 5 5 5 0 0 1 0 
+row1:	4 5 2 0 4 4 1 0 
+row2:	4 5 5 5 0 0 1 0 
+row3:	4 4 3 0 4 4 1 0 
+row4:	4 5 5 5 0 0 1 0 
+row5:	4 3 3 1 4 4 1 0 
+row6:	4 5 5 5 0 0 1 0 
+row7:	4 5 2 0 4 4 1 0 
+row8:	4 5 5 5 0 0 1 0 
+row9:	4 5 2 0 4 4 1 0 
+row10:	4 5 5 5 0 0 1 0 
+row11:	4 2 3 1 4 4 1 1 

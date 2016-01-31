@@ -1,0 +1,140 @@
+laxity[0]=4
+laxity[1]=4
+laxity[2]=6
+laxity[3]=7
+laxity[4]=6
+laxity[5]=10
+laxity[6]=11
+laxity[7]=17
+rbegin=0, rend=10
+tnum=8
+lte[0]=6
+lte[1]=6
+lte[2]=4
+lte[3]=3
+lte[4]=4
+lte[5]=0
+lte[6]=0
+lte[7]=0
+lb=23
+currentRow is 0
+row0:	10 10 9 7 4 0 0 0 
+rbegin=10, rend=15
+tnum=8
+lte[0]=1
+lte[1]=1
+lte[2]=0
+lte[3]=1
+lte[4]=0
+lte[5]=5
+lte[6]=4
+lte[7]=0
+lb=12
+currentRow is 1
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+rbegin=15, rend=20
+tnum=8
+lte[0]=1
+lte[1]=1
+lte[2]=0
+lte[3]=1
+lte[4]=4
+lte[5]=0
+lte[6]=0
+lte[7]=3
+lb=10
+currentRow is 2
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+rbegin=20, rend=30
+tnum=8
+lte[0]=6
+lte[1]=6
+lte[2]=7
+lte[3]=3
+lte[4]=4
+lte[5]=5
+lte[6]=4
+lte[7]=0
+lb=35
+currentRow is 3
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+row3:	6 6 7 8 4 5 4 0 
+rbegin=30, rend=40
+tnum=8
+lte[0]=6
+lte[1]=6
+lte[2]=4
+lte[3]=5
+lte[4]=4
+lte[5]=0
+lte[6]=0
+lte[7]=3
+lb=28
+currentRow is 4
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+row3:	6 6 7 8 4 5 4 0 
+row4:	10 10 8 5 4 0 0 3 
+rbegin=40, rend=45
+tnum=8
+lte[0]=1
+lte[1]=1
+lte[2]=1
+lte[3]=0
+lte[4]=0
+lte[5]=5
+lte[6]=4
+lte[7]=0
+lb=12
+currentRow is 5
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+row3:	6 6 7 8 4 5 4 0 
+row4:	10 10 8 5 4 0 0 3 
+row5:	5 1 1 4 0 5 4 0 
+rbegin=45, rend=50
+tnum=8
+lte[0]=1
+lte[1]=1
+lte[2]=0
+lte[3]=0
+lte[4]=4
+lte[5]=0
+lte[6]=0
+lte[7]=0
+lb=6
+currentRow is 6
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+row3:	6 6 7 8 4 5 4 0 
+row4:	10 10 8 5 4 0 0 3 
+row5:	5 1 1 4 0 5 4 0 
+row6:	5 5 5 1 4 0 0 0 
+rbegin=50, rend=60
+tnum=8
+lte[0]=6
+lte[1]=6
+lte[2]=4
+lte[3]=8
+lte[4]=4
+lte[5]=5
+lte[6]=4
+lte[7]=3
+lb=40
+currentRow is 7
+row0:	10 10 9 7 4 0 0 0 
+row1:	5 1 0 5 0 5 4 0 
+row2:	5 5 2 1 4 0 0 3 
+row3:	6 6 7 8 4 5 4 0 
+row4:	10 10 8 5 4 0 0 3 
+row5:	5 1 1 4 0 5 4 0 
+row6:	5 5 5 1 4 0 0 0 
+row7:	6 6 4 8 4 5 4 3 

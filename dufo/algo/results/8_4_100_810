@@ -1,0 +1,66 @@
+laxity[0]=1
+laxity[1]=5
+laxity[2]=3
+laxity[3]=2
+laxity[4]=9
+laxity[5]=13
+laxity[6]=3
+laxity[7]=19
+rbegin=0, rend=5
+tnum=8
+lte[0]=4
+lte[1]=0
+lte[2]=2
+lte[3]=3
+lte[4]=0
+lte[5]=0
+lte[6]=2
+lte[7]=0
+lb=11
+currentRow is 0
+row0:	5 5 2 3 3 0 2 0 
+rbegin=5, rend=10
+tnum=8
+lte[0]=4
+lte[1]=0
+lte[2]=2
+lte[3]=3
+lte[4]=0
+lte[5]=0
+lte[6]=2
+lte[7]=0
+lb=11
+currentRow is 1
+row0:	5 5 2 3 3 0 2 0 
+row1:	4 5 2 3 4 0 2 0 
+rbegin=10, rend=15
+tnum=8
+lte[0]=4
+lte[1]=0
+lte[2]=2
+lte[3]=3
+lte[4]=0
+lte[5]=2
+lte[6]=2
+lte[7]=0
+lb=13
+currentRow is 2
+row0:	5 5 2 3 3 0 2 0 
+row1:	4 5 2 3 4 0 2 0 
+row2:	5 5 2 3 1 2 2 0 
+rbegin=15, rend=20
+tnum=8
+lte[0]=4
+lte[1]=0
+lte[2]=2
+lte[3]=3
+lte[4]=3
+lte[5]=5
+lte[6]=2
+lte[7]=1
+lb=20
+currentRow is 3
+row0:	5 5 2 3 3 0 2 0 
+row1:	4 5 2 3 4 0 2 0 
+row2:	5 5 2 3 1 2 2 0 
+row3:	4 0 2 3 3 5 2 1 

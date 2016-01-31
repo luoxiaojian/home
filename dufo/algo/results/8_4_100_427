@@ -1,0 +1,35 @@
+laxity[0]=1
+laxity[1]=1
+laxity[2]=5
+laxity[3]=3
+laxity[4]=6
+laxity[5]=3
+laxity[6]=7
+laxity[7]=3
+rbegin=0, rend=5
+tnum=8
+lte[0]=4
+lte[1]=4
+lte[2]=0
+lte[3]=2
+lte[4]=0
+lte[5]=2
+lte[6]=0
+lte[7]=2
+lb=14
+currentRow is 0
+row0:	4 4 5 2 1 2 0 2 
+rbegin=5, rend=10
+tnum=8
+lte[0]=4
+lte[1]=4
+lte[2]=0
+lte[3]=2
+lte[4]=3
+lte[5]=2
+lte[6]=3
+lte[7]=2
+lb=20
+currentRow is 1
+row0:	4 4 5 2 1 2 0 2 
+row1:	4 4 0 2 3 2 3 2 

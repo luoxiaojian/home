@@ -1,0 +1,20 @@
+import os
+
+tsDir="/home/makai/algorithm/itachi/taskset_300_1/"
+fileList=os.listdir(tsDir)
+lDir="/home/makai/algorithm/m1/run300_1/log300_1/"
+#fileList.remove(".")
+#fileList.remove("..")
+
+exe="./run"
+
+fout=open("go.sh", "w")
+
+for fname in fileList:
+    lfname=fname+".log"
+    cmd=exe+" "+tsDir+fname+" "+lDir+lfname+"\n"
+    fout.write(cmd)
+
+
+fout.flush()
+fout.close()
