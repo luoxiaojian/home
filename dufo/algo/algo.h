@@ -6,13 +6,22 @@ class algo{
 	public:
 		explicit algo(taskset&);
 
-		void schedule();
+		int schedule();
+		void checkSchedule();
 
 		int **alloc;
 
 	private:
-		void clearRowFlags();
-		int searchEmpty(int tid, int rid);
+		int searchEmptyDirectly(int tid, int overflow);
+		int searchEmptyInDirectly(int tid, int rid);
+
+		int searchTaskDirectly(int tid, int overflow);
+		int searchTaskInDirectly(int tid, int rid);
+
+		int isSrcTask(int tid);
+		int isDstTask(int tid);
+
+		void clearFlags();
 
 		int *execute, *period;
 		int ttnum, tnum, pnum, rnum, hp;
